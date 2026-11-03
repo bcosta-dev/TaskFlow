@@ -33,7 +33,11 @@ E ambos esses fluxos foram configurados e publicados/testados no Jira.
 
 ## Documentação
 
-Nalho.
+O repositório contém o relatório do projeto e uma pasta com os prints dos workflows e dos casos de teste.
+
+Relatorio_TaskFlow.pdf — relatório do projeto.
+
+evidencias/ — capturas de tela dos workflows e casos de teste.
 
 ## Considerações finais
 
